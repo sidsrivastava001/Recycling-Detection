@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880113025731",
+    "firebase_url": "https://recyclingproject-69680.firebaseio.com",
+    "project_id": "recyclingproject-69680",
+    "storage_bucket": "recyclingproject-69680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880113025731:android:76241172af28f82645d876",
+        "android_client_info": {
+          "package_name": "com.example.plasticdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880113025731-rda7392cp9lobqh9r4tgso5m5j7fh44m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Vscu3eNCjoxVPXIp8dIY1MSjVdP9iDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880113025731-rda7392cp9lobqh9r4tgso5m5j7fh44m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
